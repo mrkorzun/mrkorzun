@@ -1,5 +1,10 @@
 # 💫 About Me:
-	•	🖥️ I’m currently working on: I’m working on improving and optimizing Python scripts and bots for automating tasks and creating efficient web services.<br>	•	👥 I’m looking to collaborate on: I’m open to collaborating on Python projects involving automation, web services, and bot development.<br>	•	🛠️ I’m looking for help with: I’m looking for help with discovering interesting and challenging projects where my Python expertise can be applied to solve complex problems.<br>	•	🌱 I’m currently learning: I’m currently expanding my skills in full-stack development, diving deeper into web frameworks, and mastering cloud services like AWS.<br>	•	💬 Ask me about: Python scripting, bot development, and web service creation.<br>	•	⚡ Fun fact: I can spend hours debugging code without noticing time fly!
+ •	🖥️ I’m currently working on: I’m working on improving and optimizing Python scripts and bots for automating tasks and creating efficient web services.<br>
+ •	👥 I’m looking to collaborate on: I’m open to collaborating on Python projects involving automation, web services, and bot development.<br>
+ •	🛠️ I’m looking for help with: I’m looking for help with discovering interesting and challenging projects where my Python expertise can be applied to solve complex problems.<br>
+ •	🌱 I’m currently learning: I’m currently expanding my skills in full-stack development, diving deeper into web frameworks, and mastering cloud services like AWS.<br>
+ •	💬 Ask me about: Python scripting, bot development, and web service creation.<br>
+ •	⚡ Fun fact: I can spend hours debugging code without noticing time fly!
 
 
 ## 🌐 Socials:
