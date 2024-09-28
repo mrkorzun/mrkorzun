@@ -1,11 +1,11 @@
 # 💫 About Me:
 <div style="user-select: none; pointer-events: none;">
- •	🖥️ **I’m currently working on:** On improving and optimizing Python scripts and bots for automating tasks and creating efficient web services.<br>
- •	👥 **I’m looking to collaborate on:**  Python projects involving automation, web services, and bot development.<br>
- •	🛠️ **I’m looking for help with:** Discovering interesting and challenging projects where my Python expertise can be applied to solve complex problems.<br>
- •	🌱 **I’m currently learning:** And expanding my skills in full-stack development, diving deeper into web frameworks, and mastering cloud services like AWS.<br>
- •	💬 **Ask me about:** Python scripting, bot development, and web service creation.<br>
- •	⚡ **Fun fact:** I can spend hours debugging code without noticing time fly!
+ •	🖥️ <strong>I’m currently working on:</strong> I’m working on improving and optimizing Python scripts and bots for automating tasks and creating efficient web services.<br>
+ •	👥 <strong>I’m looking to collaborate on:</strong> Python projects involving automation, web services, and bot development.<br>
+ •	🛠️ <strong>I’m looking for help with:</strong> Discovering interesting and challenging projects where my Python expertise can be applied to solve complex problems.<br>
+ •	🌱 <strong>I’m currently learning:</strong> Expanding my skills in full-stack development, diving deeper into web frameworks, and mastering cloud services like AWS.<br>
+ •	💬 <strong>Ask me about:</strong> Python scripting, bot development, and web service creation.<br>
+ •	⚡ <strong>Fun fact:</strong> I can spend hours debugging code without noticing time fly!
 </div>
 
 # 📊 GitHub Stats:
