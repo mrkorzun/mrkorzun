@@ -8,14 +8,9 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrkorzun&theme=dark&hide_border=false" height="150" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkorzun&theme=dark&hide_border=false&count_private=true&layout=compact" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrkorzun&theme=dark&hide_border=false" width="400" height="200" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkorzun&theme=dark&hide_border=false&count_private=true&layout=compact" width="400" height="200" alt="Top Languages"/>
 </div>
-
-
-![](https://github-readme-stats.vercel.app/api?username=mrkorzun&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrkorzun&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkorzun&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mrkorzun&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
