@@ -8,7 +8,7 @@
  •	⚡ <strong>Fun fact:</strong> I can spend hours debugging code without noticing time fly!
 </div>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats: 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrkorzun&theme=dark&hide_border=false" width="400" height="200" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkorzun&theme=dark&hide_border=false&count_private=true&layout=compact" width="400" height="200" alt="Top Languages"/>
