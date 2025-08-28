@@ -42,10 +42,10 @@
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white" alt="GithubPages"/><br>
 <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"/>
-<img src="https://img.shields.io/badge/aiogram-%23000000.svg?style=flat&logo=aiogram&logoColor=white" alt="aiogram"/>
+<img src="https://img.shields.io/badge/docker-3670A0?style=flat&logo=docker&logoColor=ffdd54" alt="Doker"/>
+<img src="https://img.shields.io/badge/aiogram-3670A0?style=flat&logo=aiogram&logoColor=ffdd54" alt="aiogram"/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3"/> <br>
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white" alt="Notion"/>
-<img src="https://img.shields.io/badge/Doker-%23000000.svg?style=flat&logo=doker&logoColor=white" alt="Doker"/>
 
 
