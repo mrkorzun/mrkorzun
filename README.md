@@ -20,3 +20,5 @@
   <a href="https://codepen.io/mrkorzun"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
 </div>
 
+![Views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fmrkorzun.aiogram-bot-skeleton%2Fviews&query=value&label=views)
+
