@@ -46,6 +46,3 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3"/> <br>
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white" alt="Notion"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mrkorzun&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
