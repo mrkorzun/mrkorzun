@@ -1,13 +1,22 @@
 # 💫 About Me:
-<div style="user-select: none; pointer-events: none;">
- •	🖥️ <strong>I’m currently working on:</strong> improving and optimizing Python scripts and bots for automating tasks and creating efficient web services.<br>
- •	👥 <strong>I’m looking to collaborate on:</strong> Python projects involving automation, web services, and bot development.<br>
- •	🛠️ <strong>I’m looking for help with:</strong> Discovering interesting and challenging projects where my Python expertise can be applied to solve complex problems.<br>
- •	🌱 <strong>I’m currently learning:</strong> Expanding my skills in full-stack development, diving deeper into web frameworks, and mastering cloud services like AWS.<br>
- •	💬 <strong>Ask me about:</strong> Python scripting, bot development, and web service creation.<br>
- •	⚡ <strong>Fun fact:</strong> I can spend hours debugging code without noticing time fly!
-</div>
+- 💻 **I’m currently working on:** Mastering Full-Stack development and optimizing web performance (LCP, asset delivery, responsive layouts).
+- 📚 **I’m currently learning:** Advanced JavaScript frameworks, modern CSS architectures, and cloud infrastructure (AWS).
+- 👥 **I’m looking to collaborate on:** Open-source web projects, automation bots, and scalable web services.
+- 🛠 **Ask me about:** Python scripting, responsive front-end development, and Vite-based workflows.
+- ⚡ **Fun fact:** I have a "debug mode" in my brain — I can spend hours hunting down a single bug and actually enjoy the process!
+---
 
+### 🛠 Tech Stack & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
 ## 🌐 Socials:
 <div style="user-select: none; pointer-events: none;">
   <a href="https://discord.gg/mrkorzun"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
